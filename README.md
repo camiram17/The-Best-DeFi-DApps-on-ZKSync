@@ -1,4 +1,4 @@
-# The-Best-DeFi-DApps-on-ZKSync
+# The-Best-DeFi-DApps-on-ZKSync.
 
 ## Table of Contents
 1. [General Info](#general-info)
